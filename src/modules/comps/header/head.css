@@ -1,0 +1,6 @@
+header {
+    display: flex;
+    background-image: linear-gradient(#914133, #5e514d);
+    box-shadow:0 5px 4px #121010;
+
+}
